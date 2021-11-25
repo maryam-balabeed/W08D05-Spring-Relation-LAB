@@ -15,7 +15,5 @@
 <br>
 
 *  Create `Many to Many` relationship between Artist and Albums (each album can have many artist and each artist can have many albums)
-* Create post request where you can add artists to an album. 
 
 * Create `Many to One` relationship between Album and Genre (each album can have one genre and each genre can have many albums)
-* Create post request where you can add a genre to an album. 
